@@ -1,6 +1,6 @@
 # Home-Location Analysis 
 
-## A fully functional EXAMPLE of location inltelligence project using POSTGRESQL - POSTGIS 
+## A fully functional EXAMPLE of location inltelligence project using POSTGRESQL - POSTGIS and Python (using Jupiter notebook)
 
 
 This project is mainly focused on finding a suitable home for our clients - Josh and Mary Garcia, who want to buy a home. As the real estate agent, my task is to find houses that meet their criteria. In my next appointment with them I have to present a list and produce a map. 
