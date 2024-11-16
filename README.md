@@ -17,10 +17,12 @@ Clients' criteria as follows:
 
 -the home would be located close to Terry Athletic Park, where one of the children frequently attends afterschool athletic activities.
 
-## Useful tips
+## Useful tips(updated)
 
 1. Once you have postgresql installed with posstgis extension, load the schema file in this project 'Home_Analysis(Pordenton).sql'
 
 2. Run the 'home_location_analysis queries.sql'
 
-3. View the attached location map in QGIS
+3. Download Anaconda, launch Jupyter notebooks, load the shapefiles and run the home analysis python file 
+
+4. View the attached location map in QGIS
