@@ -23,6 +23,6 @@ Clients' criteria as follows:
 
 2. Run the 'home_location_analysis queries.sql'
 
-3. Download Anaconda, launch Jupyter notebooks, load the shapefiles and run the home analysis python file 
+3. Download Anaconda, launch Jupyter notebooks, Pip install and import the necessary libraries, load the shapefiles and run the home analysis python file 
 
 4. View the attached location map in QGIS
